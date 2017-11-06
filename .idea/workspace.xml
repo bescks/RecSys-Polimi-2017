@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d73977f9-92b8-46cb-b736-74a600d77acf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Competition" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="File.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithm/File.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>top5_dict</find>
+      <find>userSimilarity</find>
+      <find>user2Item</find>
+      <find>562</find>
+      <find>top5</find>
+      <find>19629</find>
+      <find>3456,</find>
+      <find>itemPopularity</find>
+      <find>__PATH_TRAIN</find>
+      <find>__PATH_TARGET</find>
+      <find>itemSimilarity</find>
+      <find>__PATH_FEATURE</find>
+      <find>PATH</find>
+      <find>update</find>
+      <find>print</find>
+      <find>recommendation</find>
+      <find>recommendationRank</find>
+      <find>3668,</find>
+      <find>14181</find>
+      <find>bi</find>
+      <find>14181,</find>
+      <find>297,</find>
+      <find>user_seen</find>
+      <find>SC</find>
+      <find>2.</find>
+      <find>4.</find>
+      <find>3.</find>
+      <find>__test_rdd</find>
+      <find>f</find>
+      <find>URM_train_local</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>itemRandom</replace>
+      <replace>rate_don</replace>
+      <replace>b.</replace>
+      <replace>r.</replace>
+      <replace>f.</replace>
+      <replace>user_item_rate</replace>
+      <replace>USER_SEEN_ITEMS</replace>
+      <replace>ITEM_SEEN_USERS</replace>
+      <replace>item_neg_users</replace>
+      <replace>entry</replace>
+      <replace>neg</replace>
+      <replace>,</replace>
+      <replace>map5</replace>
+      <replace>target</replace>
+      <replace>f.process_bar</replace>
+      <replace>process</replace>
+      <replace>itemSimilarity</replace>
+      <replace>item2USer</replace>
+      <replace>USER_ITEM_RATE</replace>
+      <replace>ITEM_POPULARITY</replace>
+      <replace>similarity</replace>
+      <replace>predict</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Algorithm/Shared/Raw.py" />
+        <option value="$PROJECT_DIR$/Algorithm/ui.py" />
+        <option value="$PROJECT_DIR$/Algorithm/__init__.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Shared/Variable.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Past/RecommendationRank.csv/part-00000" />
+        <option value="$PROJECT_DIR$/Algorithm/Past/RecommendationRank.csv/UserCF.csv" />
+        <option value="$PROJECT_DIR$/Algorithm/Shared/File2.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Shared/Test.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Shared/File.py" />
+        <option value="$PROJECT_DIR$/Output/[2017-05-28 00:08:28.767444].csv/part-00000" />
+        <option value="$PROJECT_DIR$/Output/[2017-05-28 00:10:46.787754].csv/part-00000" />
+        <option value="$PROJECT_DIR$/Output/Pickle.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Shared/5SVD_Feature.py" />
+        <option value="$PROJECT_DIR$/Output/f_iDict[2017-05-28 10:29:09.241045].csv" />
+        <option value="$PROJECT_DIR$/Record/UserSeenFeatures.csv" />
+        <option value="$PROJECT_DIR$/Algorithm/7UserCf.py" />
+        <option value="$PROJECT_DIR$/Data/RawData/train.csv" />
+        <option value="$PROJECT_DIR$/Output/[23:14:04.703380]Top5.csv/ItemCF.csv" />
+        <option value="$PROJECT_DIR$/Output/[23:40:29.116672].Rdd.csv/part-00000" />
+        <option value="$PROJECT_DIR$/Output/[00:44:03.352388]Top5.csv/part-00000" />
+        <option value="$PROJECT_DIR$/Output/[16:46:36.466464]Top5.csv/part-00000" />
+        <option value="$PROJECT_DIR$/Output/[11:56:08.810412]Top5.csv/part-00000" />
+        <option value="$PROJECT_DIR$/Algorithm/Past/4UserCf.py" />
+        <option value="$PROJECT_DIR$/Algorithm/6ItemCf_book.py" />
+        <option value="$PROJECT_DIR$/Algorithm/eggs.csv" />
+        <option value="$PROJECT_DIR$/Data/SelfData/target_users.csv" />
+        <option value="$PROJECT_DIR$/Algorithm/6ItemCf.py" />
+        <option value="$PROJECT_DIR$/Output/[23:48:19.709588]/Top5|Rdd|.csv" />
+        <option value="$PROJECT_DIR$/Algorithm/6ItemCf_cosine.py" />
+        <option value="$PROJECT_DIR$/Algorithm/5SVD_Feature2.py" />
+        <option value="$PROJECT_DIR$/Algorithm/5SVD_Feature.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Practice 4 - Collaborative Filtering.py" />
+        <option value="$PROJECT_DIR$/Algorithm/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
+        <option value="$PROJECT_DIR$/Algorithm/Practice4-CF.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Past/5SVD.py" />
+        <option value="$PROJECT_DIR$/Algorithm/4UserCf_cosine.py" />
+        <option value="$PROJECT_DIR$/Algorithm/5SVD.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Practice5.py" />
+        <option value="$PROJECT_DIR$/Algorithm/__.py" />
+        <option value="$PROJECT_DIR$/Algorithm/ML.py" />
+        <option value="$PROJECT_DIR$/Algorithm/Top5|Rdd|.csv" />
+        <option value="$PROJECT_DIR$/Algorithm/mllib.py" />
+        <option value="$PROJECT_DIR$/Algorithm/______.py" />
+        <option value="$PROJECT_DIR$/Data/SelfData/train.csv" />
+        <option value="$PROJECT_DIR$/Algorithm/mlib.csv" />
+        <option value="$PROJECT_DIR$/Algorithm/4UserCf_CS.py" />
+        <option value="$PROJECT_DIR$/Algorithm/File.py" />
+        <option value="$PROJECT_DIR$/Algorithm/4UserCf.py" />
+        <option value="$PROJECT_DIR$/Output/[19:07:07.719132]/Top5.csv" />
+        <option value="$PROJECT_DIR$/Algorithm/Userbased.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2017-07-22-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2017-07-22-Competition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2017-07-22-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2017-07-22-Competition" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2017-07-22-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2017-07-22-Competition" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/gengdongjie/WorkSpace/PycharmProjects/Competition/Algorithm/______.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm" />
+      <recent name="$PROJECT_DIR$/Data/SelfData" />
+      <recent name="$PROJECT_DIR$/Data/TestData" />
+      <recent name="$PROJECT_DIR$/DataTest" />
+      <recent name="$PROJECT_DIR$/Algorithms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm/Past" />
+      <recent name="$PROJECT_DIR$/Algorithm" />
+      <recent name="$PROJECT_DIR$/Record" />
+      <recent name="$PROJECT_DIR$/Algorithm/Shared" />
+      <recent name="$PROJECT_DIR$/Data/RawData" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.4UserCf">
+    <configuration name="4UserCf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competition" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/UserCf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Practice4-CF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATH" value="/usr/local/spark-2.1.1/python" />
+        <env name="SPARK_HOME" value="/usr/local/spark-2.1.1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competition" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/Practice5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competition" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/ML.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="______" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competition" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/______.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competition" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <myArguments>
+        <array />
+      </myArguments>
+      <myRunOnlyEnvs>
+        <array />
+      </myRunOnlyEnvs>
+      <module name="Competition" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competition" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competition" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration name="mllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Competition" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/mllib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Practice4-CF" />
+      <item index="1" class="java.lang.String" itemvalue="Python.______" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mllib" />
+      <item index="3" class="java.lang.String" itemvalue="Python.__" />
+      <item index="4" class="java.lang.String" itemvalue="Python.4UserCf" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.4UserCf" />
+        <item index="1" class="java.lang.String" itemvalue="Python.______" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mllib" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Practice4-CF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d73977f9-92b8-46cb-b736-74a600d77acf" name="Default" comment="" />
+      <created>1494416805447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494416805447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24717286" sideWeight="0.49190283" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3808219" sideWeight="0.5177706" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47160885" sideWeight="0.4822294" order="10" side_tool="false" content_ui="tabs" x="1" y="458" width="1238" height="231" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32810047" sideWeight="0.49353796" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32810047" sideWeight="0.49353796" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39726028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1825525" sideWeight="0.5080972" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32810047" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="81" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pyspark/java_gateway.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1325" column="0" lean-forward="false" selection-start-line="1325" selection-start-column="0" selection-end-line="1325" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Record/1 ItemSeenUsers.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-472494">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/[23:10:55.125713]/p|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[23:10:55.125713]/q|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[23:10:55.125713]/test|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[23:10:55.125713]/Top5|Rdd|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[23:10:55.125713]/bu|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[22:43:57.577710]/p|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[22:43:57.577710]/q|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[22:43:57.577710]/train|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[22:43:57.577710]/Top5|Rdd|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[22:43:57.577710]/test|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[23:33:20.233017]/p|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[23:33:20.233017]/Top5|Rdd|.csv" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/Past/5SVD_Feature.py" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/Past/5SVD.py" />
+    <entry file="file://$PROJECT_DIR$/Output/[22:43:57.577710]/bu|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[22:43:57.577710]/bi|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/RawData/target_users.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/[23:10:55.125713]/bi|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/target/tmp/myCollaborativeFilter/metadata/_SUCCESS" />
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/scipy/sparse/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="301" column="0" lean-forward="false" selection-start-line="301" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/target/tmp/myCollaborativeFilter/metadata/._SUCCESS.crc" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/target/tmp/myCollaborativeFilter/metadata/part-00000" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/1.csv/part-00000" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/sample.csv/part-00000" />
+    <entry file="file://$PROJECT_DIR$/Data/RawData/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/target/tmp/myCollaborativeFilter/data/product/_SUCCESS" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/target/tmp/myCollaborativeFilter/data/user/_SUCCESS" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/target/tmp/myCollaborativeFilter/data/user/._SUCCESS.crc" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/target/tmp/myCollaborativeFilter/data/product/._SUCCESS.crc" />
+    <entry file="file://$PROJECT_DIR$/Data/RawData/samplesubmission.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="569" column="34" lean-forward="true" selection-start-line="569" selection-start-column="34" selection-end-line="569" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/SelfData/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/mlib.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[15:28:51.538492]/mlib.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[18:05:09.419232]/train|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[18:05:09.419232]/test|Dict|.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[18:05:09.419232]/mlib.csv" />
+    <entry file="file://$PROJECT_DIR$/Output/[19:07:07.719132]/Top5.csv" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/Userbased.py" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/ML.py" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/4UserCf_CS.py" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/mllib.py" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/Practice5.py" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/______.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/UserCf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="75" column="58" lean-forward="false" selection-start-line="75" selection-start-column="58" selection-end-line="75" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3465">
+          <caret line="239" column="48" lean-forward="false" selection-start-line="239" selection-start-column="48" selection-end-line="239" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
